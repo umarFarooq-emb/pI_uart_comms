@@ -8,7 +8,7 @@
 
 // UART file descriptor
 int uart_fd;
-
+int umar;
 // Function to initialize UART
 void initializeUART();
 
